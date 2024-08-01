@@ -1,0 +1,14 @@
+.lottie-loader {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .lottie-loader p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #800080;
+  }
+  
